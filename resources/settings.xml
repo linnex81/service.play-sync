@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="32011" type="number" id="own_port" default="32091"/>
+        <setting label="32012" type="number" id="timeout" default="5"/>
+        <setting label="32013" type="bool" id="master_slave" default="true"/>
+        <setting label="32014" type="number" id="diff_ms_allowed" default="500"/>
+        <setting label="32015" type="number" id="jump_ahead_time" default="3.0"/>
+        <setting label="32016" type="number" id="manual_adjust_ms" default="0"/>
+        <setting label="32031" type="ipaddress" id="master_ip" default="127.0.0.1"/>
+        <setting label="32032" type="number" id="master_port" default="32092"/>
+    </category>
+</settings>

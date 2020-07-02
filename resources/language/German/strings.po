@@ -1,0 +1,49 @@
+# Kodi Media Center language file
+# Addon Name: Version Check
+# Addon id: service.play-sync
+# Addon Provider: linne
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: no@where.com\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32011"
+msgid "Own Listener Port"
+msgstr "Eigener Listener Port"
+
+msgctxt "#32012"
+msgid "Resync timeout in secs"
+msgstr "Resync Timeout in s"
+
+msgctxt "#32013"
+msgid "Slave (on) / Master (off)"
+msgstr "Slave (an) / Master (aus)"
+
+msgctxt "#32014"
+msgid "Difference allowed in msecs"
+msgstr "Erlaubte Differenz in ms"
+
+msgctxt "#32015"
+msgid "Jump ahead and pause time in secs"
+msgstr "Vorlaufzeit (dann Warten) in s"
+
+msgctxt "#32016"
+msgid "Manual adjust in msecs"
+msgstr "Manuelle Korrektur in ms"
+
+msgctxt "#32031"
+msgid "Master IP address"
+msgstr "Master IP Adresse"
+
+msgctxt "#32032"
+msgid "Master Port"
+msgstr "Master Port"
